@@ -1,0 +1,8 @@
+../Core/Src/main.c:102:6:line_append	16	static
+../Core/Src/main.c:128:5:__io_putchar	24	static
+../Core/Src/main.c:141:9:lsm_read_reg	40	static
+../Core/Src/main.c:150:6:lps_write_reg	32	static
+../Core/Src/main.c:155:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:169:5:main	32	static
+../Core/Src/main.c:348:6:SystemClock_Config	88	static
+../Core/Src/main.c:406:6:Error_Handler	4	static,ignoring_inline_asm
